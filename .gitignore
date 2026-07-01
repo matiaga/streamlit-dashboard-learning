@@ -1,0 +1,24 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Conda
+.conda/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
