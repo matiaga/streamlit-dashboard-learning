@@ -17,8 +17,6 @@ Este proyecto fue desarrollado con fines de aprendizaje para practicar el desarr
 
 ### 🎥 Vista previa
 
-> *(Reemplazar por un GIF grabado con ScreenToGif)*
-
 <p align="center">
 <img src="images/dashboard-demo.gif" width="900">
 </p>
